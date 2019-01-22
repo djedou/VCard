@@ -16,7 +16,7 @@ Ce projet est réalisé pour apprendre des propriétés CSS.
 1. CSS:
    1. flex-box
 ## Visionner
-[VCard](https://djedou.github.io/Star-Wars-Crawl/)  
+[VCard](https://djedou.github.io/VCard/)  
 
 ## Auteur
 Nom: Aman Djedou  
