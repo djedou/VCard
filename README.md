@@ -11,7 +11,7 @@ ma carte de visite virtuelle
 ## Introduction
 Ce projet est réalisé pour apprendre des propriétés CSS.  
 
-# Technologies
+## Technologies
 1. HTML5
 1. CSS:
    1. flex-box
